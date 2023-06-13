@@ -1,4 +1,4 @@
-# monet
+# Monet
 Decentralized marketing platform services
 
 # Technical design documents
